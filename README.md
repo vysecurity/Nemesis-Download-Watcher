@@ -1,5 +1,6 @@
 # Nemesis Download Watcher
-Watches the Downloads folder for any new files and inserts it into (Nemesis)[https://github.com/SpecterOps/Nemesis] for analysis.
+Watches the Downloads folder for any new files and inserts it into [Nemesis](https://github.com/SpecterOps/Nemesis) for analysis.
+
 
 Compatible with BRC4.
 
